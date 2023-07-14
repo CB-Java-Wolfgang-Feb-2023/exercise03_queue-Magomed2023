@@ -1,6 +1,4 @@
-import java.util.Queue;
-
-public class QueueExample {
+public class Main {
     public static void main(String[] args) {
         // create an object of MyQueue class
         MyQueue a = new MyQueue();
